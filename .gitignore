@@ -1,4 +1,3 @@
 *.obj
 .vs/
 build/
-exe/
