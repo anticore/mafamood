@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4k-template", "4k-template.vcxproj", "{59C1D4F3-AE93-4A0A-B4FE-60841CA865E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59C1D4F3-AE93-4A0A-B4FE-60841CA865E5}.Release|x86.ActiveCfg = Release|Win32
+		{59C1D4F3-AE93-4A0A-B4FE-60841CA865E5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {930B5C85-F196-4B9E-B95B-7BB97471BD15}
+	EndGlobalSection
+EndGlobal
